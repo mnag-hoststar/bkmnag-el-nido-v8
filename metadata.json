@@ -116,7 +116,7 @@
 			"color": "@color-swatch2",
 			"letter-spacing": "inherit"
 		}
-	}
+	},
 	"styles": {
 		"colors": {
 			"color__primary": "#aea293",
